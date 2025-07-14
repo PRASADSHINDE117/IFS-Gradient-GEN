@@ -9,6 +9,8 @@ You can download the latest version of the standalone app for Windows here:
 
 # IFS Gradient Editor 🎨
 
+![GUI](C:\Users\Prasad\Pictures\Screenshots\Screenshot 2025-07-14 164316.png)
+
 A desktop app for designing, editing, and exporting gradient color maps (`.gradient`) compatible with **IFS-based renderers** such as **JWildfire**, **Apophysis**, or any custom fractal software that uses 288-step gradients.
 
 ---
