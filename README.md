@@ -49,5 +49,5 @@ A desktop app for designing, editing, and exporting gradient color maps (`.gradi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ifs-gradient-editor.git
-   cd ifs-gradient-editor
+   git clone https://github.com/PRASADSHINDE117/IFS-Gradient-GEN.git
+   cd IFS-Gradient-GEN
