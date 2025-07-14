@@ -9,7 +9,7 @@ You can download the latest version of the standalone app for Windows here:
 
 # IFS Gradient Editor 🎨
 
-![GUI](C:/Users/Prasad/Pictures/Screenshots/Screenshot 2025-07-14 164316.png)
+![GUI]("C:\Users\Prasad\Pictures\Screenshots\gui.png")
 
 A desktop app for designing, editing, and exporting gradient color maps (`.gradient`) compatible with **IFS-based renderers** such as **JWildfire**, **Apophysis**, or any custom fractal software that uses 288-step gradients.
 
@@ -21,35 +21,42 @@ A desktop app for designing, editing, and exporting gradient color maps (`.gradi
 - Click on the gradient bar to select a stop
 - Add or remove stops with buttons
 - Visual indicators show stop positions  
-![Stop Editor](screenshots/gradient-stops.png)
+![Stop Editor]()
 
 ---
 
 ### 🖍️ Color Editing Panel
 - Adjust selected stop's RGB values with sliders
 - Preview color in real time  
-![Color Sliders](screenshots/color-sliders.png)
+![Color Sliders]("C:\Users\Prasad\Pictures\Screenshots\stops.png")
 
 ---
 
 ### 🎨 Color Wheel Picker
 - Use the native color wheel to quickly choose any color
 - Updates selected stop automatically  
-![Color Picker](screenshots/color-picker.png)
+![Color Picker]("C:\Users\Prasad\Pictures\Screenshots\colorw.png")
 
 ---
 
-### 🧭 Position Control
-- Use the position slider to move the stop along the gradient line  
-![Position Slider](screenshots/position-slider.png)
-
+### 🧭 export .gradient files for IFS renderer
+- Use the export Full .gradient to save it for IFS renderer
+![export]("C:\Users\Prasad\Pictures\Screenshots\exp.png")
+- saved
+![export 2]("C:\Users\Prasad\Pictures\Screenshots\exp2.png")
 ---
+### 🧭 export and import support
+![supports]("C:\Users\Prasad\Pictures\Screenshots\sup.png")
+-PNG and CSS SUPPORT
+![supports]("C:\Users\Prasad\Pictures\Screenshots\sup2.png")
 
 ### 💾 Save / Load
 - Save gradients as `.gradient` files compatible with **JWildfire**
 - Load any existing `.gradient` file back into the editor  
-![Save Dialog](screenshots/save-gradient.png)
-
+![Save Dialog]("C:\Users\Prasad\Pictures\Screenshots\load.png")
+- loading in iFS RENDERER
+![Save Dialog]("C:\Users\Prasad\Pictures\Screenshots\load2.png")
+![Save Dialog]("C:\Users\Prasad\Pictures\Screenshots\load3.png")
 ---
 
 ## ⚙️ Installation & Setup
