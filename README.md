@@ -1,5 +1,12 @@
 # IFS-Gradient-GEN
 A desktop app for creating, editing, and exporting .gradient files compatible with IFS-based renderers like JWildfire. Features include a visual gradient editor, color wheel, RGB sliders, and one-click export to a 288-step compatible format.
+
+## ⬇️ Download
+
+You can download the latest version of the standalone app for Windows here:
+
+🔗 [Download Gradient Editor (.exe)](https://github.com/PRASADSHINDE117/IFS-Gradient-GEN/releases/latest)
+
 # IFS Gradient Editor 🎨
 
 A desktop app for designing, editing, and exporting gradient color maps (`.gradient`) compatible with **IFS-based renderers** such as **JWildfire**, **Apophysis**, or any custom fractal software that uses 288-step gradients.
