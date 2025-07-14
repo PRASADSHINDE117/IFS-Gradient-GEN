@@ -51,3 +51,7 @@ A desktop app for designing, editing, and exporting gradient color maps (`.gradi
    ```bash
    git clone https://github.com/PRASADSHINDE117/IFS-Gradient-GEN.git
    cd IFS-Gradient-GEN
+2. bulid:
+   ```bash 
+   pip install pyinstaller
+   pyinstaller --onefile --windowed --icon=icon.ico main.py
